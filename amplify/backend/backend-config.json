@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactam184c25842": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
